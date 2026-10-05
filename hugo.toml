@@ -1,0 +1,4 @@
+baseURL = 'https://daysareforgotten.com/'
+locale = 'en-us'
+title = 'Days Are Forgotten'
+theme = "PaperMod"
