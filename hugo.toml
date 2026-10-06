@@ -2,3 +2,20 @@ baseURL = 'https://daysareforgotten.com/'
 locale = 'en-us'
 title = 'Days Are Forgotten'
 theme = "PaperMod"
+
+[params.homeInfoParams]
+Title = "Welcome to My Blog"
+Content = "I write about photography and travel"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://instagram.com/stkhapugin"
+
+[[params.socialIcons]]
+name = "rss"
+url = "/index.xml"
+
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 20
